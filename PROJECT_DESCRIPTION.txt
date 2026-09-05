@@ -1,0 +1,1 @@
+Voice FAQ Bot: A GenAI application that accepts a user's voice question, uses Google Gemini to understand the audio, and generates a response grounded in a predefined FAQ knowledge base.
